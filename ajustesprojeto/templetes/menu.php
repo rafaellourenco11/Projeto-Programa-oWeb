@@ -12,6 +12,7 @@
             <li><a href="?pg=conteudo">Início</a></li>
             <li><a href="?pg=quemsomos">Quem Somos</a></li>
             <li><a href="?pg=faleconosco">Fale Conosco</a></li>
+            <li><a href="?=agendeagora">Agende Agora</a>
         </ul>
     </nav>
 
