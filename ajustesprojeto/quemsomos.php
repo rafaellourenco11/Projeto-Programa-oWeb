@@ -20,7 +20,6 @@
 
     <h2>Como Funciona?</h2>
     <ol>
-        <li><strong>Escolha seu Serviço:</strong> Navegue pela lista de serviços e encontre o que deseja.</li>
         <li><strong>Selecione a Data e Hora:</strong> Confira a disponibilidade e escolha o melhor momento para você.</li>
         <li><strong>Confirmação Rápida:</strong> Após agendar, você receberá uma confirmação via e-mail ou SMS.</li>
     </ol>
